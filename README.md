@@ -1,8 +1,8 @@
 ### Hi there, Komal Pal👋
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Deep Learning
-- 💬 Ask me about Python 
+- 🌱 I’m currently learning Deep Learning And DS
+- 💬 Ask me about Python and Web Technologies 
 - 📫 How to reach me: komalpal0000@gmail.com
 
 
