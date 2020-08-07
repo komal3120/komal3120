@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Deep Learning And DS
-- 💬 Ask me about Python and Web Technologies 
+- 💬 Ask me about Python C++ and Web Technologies 
 - 📫 How to reach me: komalpal0000@gmail.com
 
 
