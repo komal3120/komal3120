@@ -6,4 +6,4 @@
 - 📫 How to reach me: komalpal0000@gmail.com
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=komal3120&&show_icons=true&title_color=blue&icon_color=orange&text_color=white&bg_color=black">
+<img src="https://github-readme-stats.vercel.app/api?username=komal3120&show_icons=true&title_color=blue&icon_color=orange&text_color=white&bg_color=black">
